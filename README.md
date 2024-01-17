@@ -1,4 +1,13 @@
-### Hi there 👋
+### Привет, я Урмат Асаналиев! 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-urmatdev-blue)](https://github.com/urmatdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-urmatasanaliev-blue)](https://www.linkedin.com/in/urmatasanaliev)
+[![Telegram](https://img.shields.io/badge/Telegram-@urmat_asanaliev-blue)](https://t.me/urmat_asanaliev)
+
+#### Специализация: Android Developer
+
+Я — опытный Android разработчик, стремлюсь к созданию инновационных мобильных приложений. Увлеченный технологиями и постоянно совершенствую свои навыки. Люблю открытый код и активно участвую в сообществе разработчиков.
+
 
 <!--
 **UrmatAsanaliev/UrmatAsanaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
