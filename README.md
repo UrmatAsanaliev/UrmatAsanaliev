@@ -1,6 +1,5 @@
 ### Привет, я Урмат Асаналиев! 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-urmatdev-blue)](https://github.com/urmatdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-urmatasanaliev-blue)](https://www.linkedin.com/in/urmatasanaliev)
 [![Telegram](https://img.shields.io/badge/Telegram-@urmat_asanaliev-blue)](https://t.me/urmat_asanaliev)
 
