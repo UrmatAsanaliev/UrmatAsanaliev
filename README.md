@@ -1,7 +1,6 @@
 ### Привет, я Урмат Асаналиев! 👋
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-urmatasanaliev-blue)](https://www.linkedin.com/in/urmatasanaliev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-urmatasanaliev-blue)](https://www.linkedin.com/in/AsanalievUrmat)
 [![Telegram](https://img.shields.io/badge/Telegram-@urmat_asanaliev-blue)](https://t.me/urmat_asanaliev)
 
 #### Специализация: Android Developer
