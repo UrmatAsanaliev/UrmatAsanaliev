@@ -75,7 +75,7 @@ text{font-family:'Segoe UI','Helvetica Neue',Arial,'Hiragino Sans','Noto Sans JP
 <path d="M270,165 L250,179 L262,183 L278,175 L292,182 Z M640,155 L620,170 L633,174 L648,165 L662,172 Z" fill="#f3e6f5" opacity=".7"/>
 <path d="M0,315 L0,275 L120,240 L230,270 L330,235 L470,275 L590,245 L700,280 L810,250 L900,270 L900,315Z" fill="#24163a"/>
 <text x="450" y="112" text-anchor="middle" font-size="44" font-weight="700" fill="url(#title)" class="fade" letter-spacing="1">Urmat Asanaliev</text>
-<text x="450" y="148" text-anchor="middle" font-size="18" fill="#ffd6e6" class="fade d2" letter-spacing="3">ウルマト ・ FLUTTER DEVELOPER &amp; INSTRUCTOR</text>
+<text x="450" y="148" text-anchor="middle" font-size="17" fill="#ffd6e6" class="fade d2" letter-spacing="2" textLength="560" lengthAdjust="spacingAndGlyphs">ウルマト ・ FLUTTER DEVELOPER &amp; INSTRUCTOR</text>
 <text x="450" y="176" text-anchor="middle" font-size="14" fill="#e9d8ff" class="fade d3" opacity=".9" letter-spacing="2">— Kyrgyzstan —</text>
 <g transform="translate(357,-20)"><g class="fall" style="--dx:101px;--dy:320px;animation-duration:12.0s;animation-delay:-5.0s"><g class="spin" style="animation-duration:3.2s"><g transform="scale(1.06)" fill="url(#petal)" opacity="0.87"><path d="M0,-7 C5,-7 7,-2 4,4 Q2,2 0,5 Q-2,2 -4,4 C-7,-2 -5,-7 0,-7Z"/></g></g></g></g>
 <g transform="translate(457,-20)"><g class="fall" style="--dx:-114px;--dy:320px;animation-duration:15.8s;animation-delay:-1.9s"><g class="spin" style="animation-duration:3.8s"><g transform="scale(1.32)" fill="url(#petal)" opacity="0.62"><path d="M0,-7 C5,-7 7,-2 4,4 Q2,2 0,5 Q-2,2 -4,4 C-7,-2 -5,-7 0,-7Z"/></g></g></g></g>
