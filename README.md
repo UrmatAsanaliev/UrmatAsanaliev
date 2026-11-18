@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/urmat_asanaliev"><img src="https://img.shields.io/badge/Telegram-@urmat__asanaliev-c792ea?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1b1638" /></a>
+  <a href="https://t.me/AsanalievUrmat"><img src="https://img.shields.io/badge/Telegram-@AsanalievUrmat-c792ea?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1b1638" /></a>
   <a href="https://www.linkedin.com/in/AsanalievUrmat"><img src="https://img.shields.io/badge/LinkedIn-AsanalievUrmat-f6a5c0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1638" /></a>
   <img src="https://komarev.com/ghpvc/?username=UrmatAsanaliev&label=Profile%20views&color=c792ea&style=for-the-badge" />
 </p>
